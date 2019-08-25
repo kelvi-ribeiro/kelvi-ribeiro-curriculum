@@ -11,10 +11,36 @@ var vestibularUnigranrio =  '<h2>Inscrição de Candidatos de Primeira Graduçã
 '                        <br />' +
 '                        <p>Sem Dúvidas, esse foi o projeto que eu mais participei, atuei desde o FrontEnd até o BackEnd' +
 '                            desse projeto que possuem grandes demandas até o dia de Hoje(24/08/2019).</p>' +
-'                        <p>Existe também uma integração com o serviço do Hubspot(Serviõ que oferece um conjunto completo' +
+'                        <p>Existe também uma integração com o serviço do Hubspot(Serviço que oferece um conjunto completo' +
 '                            de Software para marteking, vendas e atendimento ao cliente), em quase todos os formulários' +
 '                            do site, os dados do Candidato são enviados através da API do Hubspot</p>' +
 '                        <p>Aproveitando para falar do BackEnd desse site(que eu também participei ativamente), foi feito' +
 '                            com Java Rest API com Spring Boot, usando SGBG SQL Server.</p>' +
 '                        <br />' +
 '                        <br />';
+
+
+
+var posGraducaoUnigranrio = '<h2>Visualização de Cursos de Pós Graduação - Unigranrio</h2>'+
+'                        <div class="h-50"></div>'+
+'                        <p>Site responsável pela visualização de Cursos de Pós Graduação da Unigranrio.</p>'+
+'                        <p>Nesse Site é possível escolher o curso de uma forma muito criteriosa, permitindo combinar'+
+'                            entre áreas(Direito, Educação, Saúde, Tecnologia e etc...), Modalidade, Unidade, Duração e'+
+'                            Titulação.'+
+'                        </p>'+
+'                        <br />'+
+'                        <br /> <img src="img/portfolio/pos-graduacao-unigranrio.png" alt="" class="img-responsive" />'+
+'                        <br />'+
+'                        <br />'+
+'                        <p>Atuei bastante nesse projeto, fiquei responsável por dar continuidade no projeto até o'+
+'                            término do mesmo, por questão de ter sido descontinuado anteriormente</p>'+
+'                        <p>A busca de cursos foi algo bem legal de ter sido implementando, primeramente pela grande'+
+'                            desafio de poder ter múltiplos filtros e com isso, a modalagem no banco de dados teve ser'+
+'                            mudado um pouco. Não participei muito na modelagem das tabelas, porém, ajudei um pouco e'+
+'                            acompanhei bastante. Com isso, também fiquei responsável de fazer todas as queries de busca desses cursos no BackEnd e fazer a integração no FronEnd</p>'+
+'                        <p>Aproveitando para falar do BackEnd desse site(que eu também participei ativamente), foi feito'+
+'                            com Java Rest API com Spring Boot, usando SGBG SQL Server.</p>'+
+'                        <br />'+
+'                        <br />';
+	
+
