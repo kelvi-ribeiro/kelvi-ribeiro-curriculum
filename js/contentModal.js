@@ -129,6 +129,65 @@ var aplicativoProfessorUnigranrio = '<h2>Aplicativo do Professor<br />Unigranrio
 '                        <p>Atuei um pouco no BackEnd desse aplicativo que foi feito com Java Rest API com Spring'+
 '                            Boot, usando SGBG Oracle.</p>'+
 '                        <br />';
+
+
+
+
+var aplicativoCamarao = '<h2>Aplicativo do Camarão - Projeto na Faculdade</h2>'+
+'                        <div class="h-50"></div>'+
+'                        <p>Aplicativo do camarão foi um desafio da disciplina de Tópicos de Programação orientado pelo'+
+'                            professor <a target="_blank" href="https://www.linkedin.com/in/thiagosilvadesouza">Thiago'+
+'                                Souza</a> na <a target="_blank" href="http://www.unigranrio.com.br/">Instituição'+
+'                                Unigranrio</a>. Essa aplicação tem a'+
+'                            responsabilidade de'+
+'                            ajudar os funcionários a gerenciar os tanques de camarão, os camarões são frágeis e a água'+
+'                            precisa estar devidamente tratada para o crescimento saudável dos mesmos, sendo assim,'+
+'                            algumas propriedades da água precisam estar em constante monitoramento, as principais'+
+'                            propriedades são: Amônia Total, Nitrato, Nitrito, Oxigênio Dissolvido, PH, Salinidade,'+
+'                            Temperatura e Transparência. Para isso, foi necessário desenvolver um projeto Com Arduino'+
+'                            que de alguma forma pudesse comunicar com os dispositivos móveis dos funcionários, é'+
+'                            possível acessar o <a target="_blank"'+
+'                                href=https://www.youtube.com/watch?v=4zkQStHMYN0">Vídeo </a> ensinando como configurar e'+
+'                                startar o projeto. Existe também os projetos no <a target="_blank"'+
+'                                href="https://github.com/kelvi-ribeiro/app-camarao">GitHub</a>.</p>'+
+'                        <br />'+
+'                        <br /> <img src="img/portfolio/aplicativo-camarao.png" alt="" class="img-responsive" />'+
+'                        <br />'+
+'                        <br />'+
+'                        <p> Funcionalidades :'+
+'                            <ol>'+
+'                                <li>Listagem em tempo real de todas as propriedades citadas</li>'+
+'                                <li>Gráficos ilustrativos em tempo real de todas as propriedades citadas</li>'+
+'                                <li>Gerenciamento de tanques (CRUD)</li>'+
+'                                <li>Localização de Tanques (Aplicação usa o GPS para a localização de todos os tanques'+
+'                                    cadastrados)</li>'+
+'                                <li>Gerenciamento de Funcionários habilitado apenas para gerentes (CRUD)</li>'+
+'                                <li>Gerenciamento de Avisos ou Mensagens, uma espécie de quadro de avisos (CRUD)</li>'+
+'                                <li>Disparo de E-mails e Notificação Via Push Notification do Firebase para todos os'+
+'                                    funcionário ao sistema checar que um propriedade passou do seu range limite</li>'+
+'                                <li>Disparo de E-mails e Notificação Via Push Notification do Firebase ao envio de'+
+'                                    avisos</li>'+
+'                                <li>Tela de Ajuda com tradução para mais dois idiomas, além do português</li>'+
+'                                <li>Possibilidade de alteração de foto de Perfil do Usuário, através da camera e galeria'+
+'                                </li>'+
+'                                <li>Aplicativo dinâmico, algumas funcionalidades são habilitadas apenas para funcionário'+
+'                                    Administradores</li>'+
+'                            </ol>'+
+'                        </p>'+
+'                        <p> Principais tecnologias utilizadas :'+
+'                            <ol>'+
+'                                <li>Ionic</li>'+
+'                                <li>NPM</li>'+
+'                                <li>Node</li>'+
+'                                <li>API REST JAVA</li>'+
+'                                <li>Arduino</li>'+
+'                                <li>Sensor de temperatura DHT11</li>'+
+'                                <li>SGBD MySQL</li>                                '+
+'                            </ol>'+
+'                        </p>'+
+'                        <br />';
+	
+
 	
 
 	
