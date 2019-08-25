@@ -104,9 +104,14 @@ $(document).ready(function () {
     });
 
     //animatedModal
-    $("#demo01,#demo02,#vestibular-unigranrio,#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal();
+    $("#demo01,#demo02,#vestibularUnigranrio,#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal();
 
-    // Contact Form 	
+    // Switch modal content that depends on portfolio to clicked
+    $("#vestibularUnigranrio").click(function () {       
+        $('#content-modal').html(vestibularUnigranrio)        
+      })
+
+     
 
     // validate contact form
     $(function () {
