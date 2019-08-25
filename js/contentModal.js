@@ -75,7 +75,7 @@ var aplicativoAlunoUnigranrio = '<h2>Aplicativo do Aluno - Unigranrio</h2>'+
 '                            Aluno.</p>'+
 '                        <p>Aplicativo possui as seguntes funcionalidades:'+
 '                            <ol>'+
-'                                <li>Consulta de grade de horários</li>'+
+'                                <li>Consulta da grade de horários</li>'+
 '                                <li>Consulta de atividades complementares</li>'+
 '                                <li>Consulta de Notas</li>'+
 '                                <li>Consulta de Faltas</li>'+
@@ -99,6 +99,38 @@ var aplicativoAlunoUnigranrio = '<h2>Aplicativo do Aluno - Unigranrio</h2>'+
 '                        <p>Atuei um pouco no BackEnd desse aplicativo que foi feito com Java Rest API com Spring'+
 '                            Boot, usando SGBG Oracle.</p>'+
 '                        <br />';
+
+
+var aplicativoProfessorUnigranrio = '<h2>Aplicativo do Professor<br />Unigranrio</h2>'+
+'                        <div class="h-50"></div>'+
+'                        <p>O aplicativo do professor com as principais funcionalidades de lançamento de notas, faltas '+
+'                            e consulta de ítens importantes para o professor, serve para substituir o Portal nas'+
+'                            principais funcionalidades, porque o acesso no Portal acaba sendo mais burocrático, devido a'+
+'                            isso, surgiu a necessidade de um aplicativo do Professor.</p>'+
+'                        <p>Aplicativo possui as seguntes funcionalidades:'+
+'                            <ol>'+
+'                                <li>Consulta da grade de horários</li>'+
+'                                <li>Consulta de turmas ministradas pelo professor</li>'+
+'                                <li>Consulta de atividades complementares</li>'+
+'                                <li>Consulta e lançamento de notas</li>'+
+'                                <li>Consulta e lançamento de faltas</li>'+
+'                                <li>localização das salas e'+
+'                                    locais importantes(usando gps do celular)</li>'+
+'                                <li>Área de Suporte para tirar as dúvidas do Professor sobre o Aplicativo</li>'+
+'                            </ol>'+
+'                        </p>'+
+'                        <br />'+
+'                        <br /> <img src="img/portfolio/app-professor-unigranrio.png" alt="" class="img-responsive" />'+
+'                        <br />'+
+'                        <br />'+
+'                        <p>Esse aplicativo foi uma das minha primeiras experiências como profissional, na época que eu'+
+'                            comecei a atuar nesse projeto, ele já estava 50% concluído, dei continuidade no projeto'+
+'                            junto a minha equipe da época(Equipe de inovação, composta por menos de 5 membros).</p>'+
+'                        <p>Atuei um pouco no BackEnd desse aplicativo que foi feito com Java Rest API com Spring'+
+'                            Boot, usando SGBG Oracle.</p>'+
+'                        <br />';
+	
+
 	
 
 
