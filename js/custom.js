@@ -104,16 +104,20 @@ $(document).ready(function () {
     });
 
     //animatedModal
-    $("#vestibularUnigranrio,#posGraduacaoUnigranrio,#vestibularUnigranrio,#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal();
+    $("#vestibularUnigranrio,#posGraduacaoUnigranrio,#iframeLigueme,#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal();
 
     // Switch modal content that depends on portfolio to clicked
     $("#vestibularUnigranrio").click(function () {       
         $('#content-modal').html(vestibularUnigranrio)        
       })
 
-      $("#posGraduacaoUnigranrio").click(function () {       
+    $("#posGraduacaoUnigranrio").click(function () {       
         $('#content-modal').html(posGraducaoUnigranrio)        
-      })
+    })
+
+    $("#iframeLigueme").click(function () {       
+        $('#content-modal').html(iframeLigueme)        
+    })
 
     // validate contact form
     $(function () {
