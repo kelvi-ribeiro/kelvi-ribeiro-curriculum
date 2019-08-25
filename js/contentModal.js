@@ -67,4 +67,38 @@ var iframeLigueme = '<h2>Iframe Ligue-me - Unigranrio</h2>'+
 '                        <br />';
 	
 
+var aplicativoAlunoUnigranrio = '<h2>Aplicativo do Aluno - Unigranrio</h2>'+
+'                        <div class="h-50"></div>'+
+'                        <p>O aplicativo funciona como consulta para substituir o Portal Unigranrio nas principais'+
+'                            funcionalidades, porque o acesso no Portal'+
+'                            acaba sendo mais burocrático, devido a isso, surgiu a necessidade de um aplicativo do'+
+'                            Aluno.</p>'+
+'                        <p>Aplicativo possui as seguntes funcionalidades:'+
+'                            <ol>'+
+'                                <li>Consulta de grade de horários</li>'+
+'                                <li>Consulta de atividades complementares</li>'+
+'                                <li>Consulta de Notas</li>'+
+'                                <li>Consulta de Faltas</li>'+
+'                                <li>Consulta do mensalidades do aluno</li>'+
+'                                <li>Cópia da linha digitável de uma mensalidade para facilitar o pagamento em'+
+'                                    Internet Banking</li>'+
+'                                <li>localização das salas e'+
+'                                    locais importantes(usando gps do celular)</li>'+
+'                                <li>Área de Suporte para tirar as dúvidas do Aluno sobre o Aplicativo</li>'+
+'                            </ol>'+
+'                        </p>'+
+'                        <br />'+
+'                        <br /> <img src="img/portfolio/app-aluno-unigranrio.png" alt="" class="img-responsive" />'+
+'                        <br />'+
+'                        <br />'+
+'                        <p>Esse aplicativo foi uma das minhas primeiras experiências como profissional, na época'+
+'                            estava atuando como'+
+'                            estagiário e grande parte das funcionalidades já estavam no ar quando eu comecei a atuar'+
+'                            nesse projeto, devido a isso, dei muita manutenção e deploy(IOS e Android) no'+
+'                            aplicativo.</p>'+
+'                        <p>Atuei um pouco no BackEnd desse aplicativo que foi feito com Java Rest API com Spring'+
+'                            Boot, usando SGBG Oracle.</p>'+
+'                        <br />';
+	
+
 
