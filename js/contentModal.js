@@ -186,10 +186,37 @@ var aplicativoCamarao = '<h2>Aplicativo do Camarão - Projeto na Faculdade</h2>'
 '                            </ol>'+
 '                        </p>'+
 '                        <br />';
-	
-
-	
-
-	
 
 
+
+var aplicativoInfoSaudePaciente = '<h2>Aplicativo do Paciente - Info Saúde(TCC)</h2>'+
+'                        <div class="h-50"></div>'+
+'                        <p>O aplicativo serve para que os pacientes, seja de qualquer instituição de saúde, seja capaz'+
+'                            de manter a comunicação clara com seus gestores de saúde</p>'+
+'                        <p>O aplicativo também possui algumas outras funcionalidaes, abaixo a lista de todas as'+
+'                            funcionalidades:'+
+'                            <ol>'+
+'                                <li>Visualização de dados pessoais</li>'+
+'                                <li>Cadastro de medicamentos utilizados</li>'+
+'                                <li>Cadastro de histórico de medicamentos utilizados</li>'+
+'                                <li>Visualização da lista de medicamentos em utilização com lembrete</li>'+
+'                                <li>Cadastro de exame com o local associado.</li>'+
+'                                <li>Funcionalidade de "encontre seu local de exame" usando o GPS do celular, mostrando'+
+'                                    um mapa detalhado com os locais de exames cadastrados.</li>'+
+'                                <li>Notificação e visualização das mensagens gerais da instiuição de saúde, de seus'+
+'                                    grupos ou invididuais.</li>'+
+'                            </ol>'+
+'                        </p>'+
+'                        <br />'+
+'                        <br /> <img src="img/portfolio/aplicativo-info-saude-paciente.png" alt=""'+
+'                            class="img-responsive" />'+
+'                        <br />'+
+'                        <br />'+
+'                        <p>O aplicativo do Paciente foi uma das aplicações do meu projeto final da faculdade. Foram duas'+
+'                            aplicações, o aplicativo mobile do Paciente e a aplicação web dos gestores da instituiçao de'+
+'                            saúde.'+
+'                        </p>'+
+'                        <p>O aplicativo foi feito em Ionic no FrontEnd e Java com Spring Boot(Arquitetura Rest API) no'+
+'                            BackEnd, usando o SGBD MySql.</p>'+
+'                        <br />'+
+'                        <br />';
