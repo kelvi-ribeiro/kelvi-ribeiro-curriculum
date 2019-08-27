@@ -107,9 +107,7 @@ body {
     position: absolute
 }
 
-#status {
-    width: 100px;
-    height: 100px;
+#status {   
     background-repeat: no-repeat;
     background-position: center;
     margin: -50px 0 0 -50px
@@ -795,6 +793,9 @@ fieldset {
     .portfolio .categories-grid .categories ul li {
         list-style: none;
         margin: 10px 0;
+    }
+    .disply-table {
+        left: 1%;
     }
 }
 
