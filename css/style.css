@@ -71,6 +71,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 24px;
+    overflow-x: hidden;
 }
 
 .size-50 {
@@ -635,8 +636,7 @@ a.active {
 /* contact
 ==================================================*/
 
-#contact {
-    padding: 100px 0;
+#contact {    
     background: #f3f3f3
 }
 
