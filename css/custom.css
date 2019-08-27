@@ -34,3 +34,42 @@
 }
 
 
+.wpp-button {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 40px;
+	right: 114px;
+	background-color: #25d366;
+	color: #FFF;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 30px;
+	z-index: 100;
+  }
+  .wpp-button:hover,
+  .wpp-button:active,
+  .wpp-button:focus {
+	color: #fff;
+  }
+  
+  .my-float{
+  margin-top:16px;
+  }
+  
+  /* Mobile */
+  @media (max-width: 1024px){
+	.wpp-button{
+	  font-size: 20px;
+	  bottom: 90px;
+	  right: 27px;
+	  width: 40px;
+	  height: 40px;
+	}
+	.my-float{
+	  margin-top: 11px;
+	}
+  }
+  
+
+
