@@ -47,7 +47,7 @@ var posGraducaoUnigranrio = '<h2>Visualização de Cursos de Pós Graduação - 
 var iframeLigueme = '<h2>Iframe Ligue-me - Unigranrio</h2>'+
 '                        <div class="h-50"></div>'+
 '                        <p>Iframe injetável com apenas algumas linhas de códigos.</p>'+
-'                        <p>O Iframe o injetado via tag &lt;script&gt; e nele é posível definir a posição em que o botão'+
+'                        <p>O Iframe é injetado via tag &lt;script&gt; e nele é posível definir a posição em que o botão'+
 '                            que abre o botão será renderizado.</p>'+
 '                        <br />'+
 '                        <br /> <img src="img/portfolio/iframe-ligue-me.png" alt="" class="img-responsive" />'+
