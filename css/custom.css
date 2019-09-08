@@ -16,6 +16,7 @@
 	border-radius: 10px;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
 	background-color: #555;
+	opacity: 0;	
 }
 
 #content-modal > img {
@@ -75,6 +76,13 @@
 	.my-float{
 	  margin-top: 11px;
 	}
+  }
+
+  html, body {
+	overflow-x: hidden;
+  }
+  body {
+	position: relative
   }
   
 
