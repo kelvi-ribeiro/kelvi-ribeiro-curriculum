@@ -2,5 +2,4 @@
 
 ### Publicando o site 
 
-`surge --projet ./ --domain kelvi-ribeiro-curri
-culum.surge.sh`
+`surge --project ./ --domain kelvi-ribeiro-curriculum.surge.sh`
