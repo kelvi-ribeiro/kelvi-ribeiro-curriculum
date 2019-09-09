@@ -298,8 +298,7 @@ a.active {
 .disply-table {
     display: table;
     height: 100vh;
-    position: relative;
-    left: -80px;
+    position: relative;    
 }
 
 
