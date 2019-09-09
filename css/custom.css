@@ -40,6 +40,13 @@
     }    
 }
 
+@media (min-width: 1580px) {
+    .disply-table {
+        left: -205px;
+    }    
+}
+
+
 
 .wpp-button {
 	position: fixed;
