@@ -134,6 +134,13 @@ $(document).ready(function () {
     $("#aplicativoInfoSaudePaciente").click(function () {       
         $('#content-modal').html(aplicativoInfoSaudePaciente)        
     })
+    // Caso não tenha o parâmetro show-count-visitors setado, a div que exibe essa informção é removida
+    $(function(){
+        const searchParams = new URLSearchParams(window.location.search)
+        if(!searchParams.has('show-count-visitors')){
+            $('#div-link-count-visitors').remove()
+        }
+    })
 
     // validate contact form
     $(function () {
