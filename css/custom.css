@@ -91,6 +91,20 @@
   body {
 	position: relative
   }
+
+  .tag-center {
+    padding:1em;
+    text-align: center;
+    display:inline-block;
+    text-decoration: none !important;
+    margin:0 auto;}
+
+.div-link-count-visitors{
+  width: 100%;
+  text-align: center;  
+}
+
+
   
 
 
