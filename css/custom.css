@@ -76,13 +76,44 @@
 	.wpp-button{
 	  font-size: 20px;
 	  bottom: 60px;
-	  right: 27px;
+	  right: 80px;
 	  width: 40px;
 	  height: 40px;
 	}
 	.my-float{
 	  margin-top: 11px;
 	}
+  }
+
+  .download-curriculum-button {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 40px;
+	right: 40px;
+	background-color: #797979;
+	color: #D81F28;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 30px;
+	z-index: 100;
+  }
+  .download-curriculum-button:hover,
+  .download-curriculum-button:active,
+  .download-curriculum-button:focus {
+	color: #D81F28;
+  } 
+
+  
+  /* Mobile */
+  @media (max-width: 1024px){
+	.download-curriculum-button{
+	  font-size: 20px;
+	  bottom: 60px;
+	  right: 27px;
+	  width: 40px;
+	  height: 40px;
+	}	
   }
 
   html, body {
