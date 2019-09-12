@@ -2,10 +2,11 @@
 
 $(window).load(function () {
     "use strict";
+    const timeDelay = window.location.href.includes('localhost') ? 0 : 1200    
     // makes sure the whole site is loaded
     $('#status').fadeOut(); // will first fade out the loading animation
-    $('#preloader').delay(1200).fadeOut('slow'); // will fade out the white DIV that covers the website.
-    $('body').delay(1200).css({
+    $('#preloader').delay(timeDelay).fadeOut('slow'); // will fade out the white DIV that covers the website.
+    $('body').delay(timeDelay).css({
         'overflow': 'visible'
     });
 })
