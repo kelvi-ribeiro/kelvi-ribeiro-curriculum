@@ -92,7 +92,7 @@
 	bottom: 40px;
 	right: 40px;
 	background-color: #797979;
-	color: #D81F28;
+	color: #285395;
 	border-radius: 50px;
 	text-align: center;
 	font-size: 30px;
@@ -101,7 +101,7 @@
   .download-curriculum-button:hover,
   .download-curriculum-button:active,
   .download-curriculum-button:focus {
-	color: #D81F28;
+	color: #285395;
   } 
 
   
